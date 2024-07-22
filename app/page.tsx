@@ -7,15 +7,11 @@ export default function Page() {
         not health advice
       </h1>
       <p className="mb-4">
-        {`I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in
-        Vim's keystroke commands and tabs' flexibility for personal viewing
-        preferences. This extends to my support for static typing, where its
-        early error detection ensures cleaner code, and my preference for dark
-        mode, which eases long coding sessions by reducing eye strain.`}
+        {`I'm a software engineer turned trader. My focus has shifted from my career to my health. I've always been a hypochondriac though and have OCD. As a trader, I rely on my mental (headspace) and physical well-being. If I don't feel well, I definitely get punished by the markets. These notes are references for myself and are not medical or financial advice. I'm not a medical professional or financial advisor.`}
       </p>
       <div className="my-8">
         <BlogPosts />
       </div>
     </section>
-  )
+  );
 }
