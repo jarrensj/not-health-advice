@@ -10,7 +10,7 @@ export default function Page() {
         {`I'm a software engineer turned trader. My focus has shifted from my career to my health.`}
       </p>
       <p className="mb-4">
-        {`These notes are references for myself and are not medical or financial advice. I'm not a medical professional or financial advisor. The information presented may be biased and inaccurate. Please do your own research.`}
+        {`These notes are references for myself and are not medical or financial advice. I'm not a medical professional or financial advisor. The information presented may be biased and incorrect. Please do your own research.`}
       </p>
       <div className="my-8">
         <BlogPosts />
